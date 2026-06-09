@@ -1,0 +1,12 @@
+[
+  { "icon": "ShieldCheck", "title": "Never Share OTP", "text": "No bank, wallet or government agency will ever ask for your OTP, PIN, or CVV. Sharing it is the same as handing over cash." },
+  { "icon": "Link2Off", "title": "Don't Click Unknown Links", "text": "Avoid clicking SMS/WhatsApp links from unknown senders. Type the bank URL manually in your browser instead." },
+  { "icon": "Smartphone", "title": "Avoid Remote Access Apps", "text": "Never install AnyDesk, TeamViewer or QuickSupport for 'customer care'. Fraudsters use them to drain your account." },
+  { "icon": "Search", "title": "Verify Customer Care Numbers", "text": "Always pick support numbers from the official bank/app website, never from a Google search result." },
+  { "icon": "QrCode", "title": "QR Codes Only Send, Never Receive", "text": "You only scan QR codes to PAY money. Anyone asking you to scan to 'receive' is scamming you." },
+  { "icon": "Lock", "title": "Enable Two-Factor Authentication", "text": "Turn on 2FA on email, WhatsApp, social media and net banking. It blocks most account-takeover attempts." },
+  { "icon": "Eye", "title": "Inspect URLs Carefully", "text": "Look for spelling tricks like 'icic1.com' or 'paytm-help.in'. Real bank domains never use bit.ly or tinyurl." },
+  { "icon": "Phone", "title": "Hang Up on Threats", "text": "Real police, CBI or customs never call asking for money. Disconnect and call 1930 to report it." },
+  { "icon": "Wallet", "title": "Set UPI Limits", "text": "Reduce your daily UPI transaction limit in your app. It caps damage if your account is compromised." },
+  { "icon": "Users", "title": "Educate Family", "text": "Talk to elderly parents and children about common scams. Awareness is the strongest firewall." }
+]

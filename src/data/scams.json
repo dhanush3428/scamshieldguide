@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Fake Job Offer Scam",
+    "category": "Job Scam",
+    "severity": "High",
+    "description": "Fraudsters offer fake high-paying jobs in MNCs and demand registration fees, training charges or laptop deposits.",
+    "redFlags": ["Upfront payment demand", "No interview required", "Unrealistic salary", "Gmail/Yahoo company email"],
+    "example": "Congratulations! You are selected for Amazon WFH job. Pay ₹2,500 registration fee on this UPI to confirm."
+  },
+  {
+    "id": 2,
+    "title": "OTP Sharing Scam",
+    "category": "OTP Scam",
+    "severity": "High",
+    "description": "Scammers impersonate bank or delivery agents and ask victims to share OTP to 'verify' or 'cancel' a transaction.",
+    "redFlags": ["Asks for OTP", "Creates urgency", "Pretends to be from bank", "Threatens account blockage"],
+    "example": "Sir, your SBI account will be blocked in 1 hour. Please share the OTP you just received to keep it active."
+  },
+  {
+    "id": 3,
+    "title": "UPI Collect Request Fraud",
+    "category": "UPI Fraud",
+    "severity": "High",
+    "description": "Scammer sends a UPI collect/payment request disguised as money being sent to you. Approving debits your account.",
+    "redFlags": ["'Approve to receive' message", "Random collect request", "PIN asked to receive money"],
+    "example": "I am sending you ₹5,000 for the OLX item. Please enter UPI PIN to receive the payment."
+  },
+  {
+    "id": 4,
+    "title": "KYC Update Scam",
+    "category": "KYC Scam",
+    "severity": "High",
+    "description": "Fake SMS or call claiming your KYC is expired and account will be frozen unless you click a link or share details.",
+    "redFlags": ["Suspicious short link", "Asks to install AnyDesk/TeamViewer", "Threat of account closure"],
+    "example": "Dear Customer, Your PAN is not updated in HDFC. Update now: bit.ly/kyc-update or account will be blocked."
+  },
+  {
+    "id": 5,
+    "title": "Courier / FedEx Scam",
+    "category": "Courier Scam",
+    "severity": "High",
+    "description": "Caller claims a parcel in your name contains drugs and threatens arrest unless you transfer 'verification' funds.",
+    "redFlags": ["Mumbai/Delhi customs claim", "Fake police video call", "Demands money to 'clear' case"],
+    "example": "This is FedEx. A parcel with MDMA was found in your name. Cyber Cell will arrest you. Transfer ₹50,000 for verification."
+  },
+  {
+    "id": 6,
+    "title": "Instant Loan App Scam",
+    "category": "Loan Scam",
+    "severity": "High",
+    "description": "Chinese loan apps offer quick loans then harass, blackmail and morph photos of borrowers to extort money.",
+    "redFlags": ["Demands full contact/gallery access", "Loan disbursed without verification", "Hidden processing fees"],
+    "example": "Get ₹50,000 in 5 minutes — no documents! Just install RupeeFast app and grant all permissions."
+  },
+  {
+    "id": 7,
+    "title": "Stock Tip / Investment Scam",
+    "category": "Investment Scam",
+    "severity": "High",
+    "description": "WhatsApp/Telegram groups guarantee multibagger stock picks then trap victims in pump-and-dump or fake trading apps.",
+    "redFlags": ["Guaranteed returns", "Add to VIP group", "Unregistered advisor", "Fake SEBI logo"],
+    "example": "Join our VIP group! 200% return in 7 days. Limited seats — pay ₹999 membership to lock-in profits."
+  },
+  {
+    "id": 8,
+    "title": "Lottery / KBC Lucky Draw",
+    "category": "Lottery Scam",
+    "severity": "Medium",
+    "description": "Caller claims you won a KBC or BMW lottery and asks for tax/processing fees to release the prize.",
+    "redFlags": ["You didn't enter any contest", "Asks GST/processing fee", "WhatsApp call from +92"],
+    "example": "You won ₹25 lakh in KBC lottery! Pay ₹8,500 GST on this UPI to claim your prize money."
+  },
+  {
+    "id": 9,
+    "title": "WhatsApp Impersonation Scam",
+    "category": "WhatsApp Scam",
+    "severity": "Medium",
+    "description": "Scammer copies your contact's profile photo and messages family asking for urgent money transfer.",
+    "redFlags": ["Unknown number", "Profile pic of known person", "Urgent money request", "Cannot take calls"],
+    "example": "Beta, this is uncle. I lost my phone. Send ₹10,000 to this UPI urgently, will return tomorrow."
+  },
+  {
+    "id": 10,
+    "title": "Banking SMS Phishing",
+    "category": "Banking Scam",
+    "severity": "High",
+    "description": "Fake SMS pretending to be from your bank with a link asking to update password or net-banking details.",
+    "redFlags": ["Shortened URL", "Spelling errors", "Asks for full card/CVV", "Sender ID looks odd"],
+    "example": "ICICI: Your debit card is blocked. Reactivate: http://icici-secure.link/login"
+  },
+  {
+    "id": 11,
+    "title": "Malicious QR Code Scam",
+    "category": "QR Code Scam",
+    "severity": "High",
+    "description": "Seller insists you scan a QR code to 'receive' payment. Scanning and entering PIN actually debits your account.",
+    "redFlags": ["QR shown to receive money", "PIN entry to receive", "Pressure to scan quickly"],
+    "example": "Scan this QR to get your refund. Just enter your UPI PIN — money will be credited instantly."
+  },
+  {
+    "id": 12,
+    "title": "Fake Customer Care Scam",
+    "category": "Customer Care Scam",
+    "severity": "High",
+    "description": "Victims search bank/Paytm customer care on Google and call fake numbers run by fraudsters who take remote control.",
+    "redFlags": ["Number from Google not official site", "Asks to install AnyDesk", "Asks card or OTP"],
+    "example": "I am Paytm support. Install AnyDesk so I can refund your stuck payment of ₹3,000."
+  },
+  {
+    "id": 13,
+    "title": "Digital Arrest / Fake Police",
+    "category": "Fake Police Scam",
+    "severity": "High",
+    "description": "Scammers in police/CBI uniform video call victims claiming a case is registered and place them under 'digital arrest'.",
+    "redFlags": ["Video call from unknown", "Threatens arrest", "Asks to stay on call", "Demands bank transfer"],
+    "example": "This is CBI. Your Aadhaar is linked to a money laundering case. Don't disconnect the call, transfer ₹2 lakh for verification."
+  },
+  {
+    "id": 14,
+    "title": "Matrimonial / Romance Scam",
+    "category": "Matrimonial Scam",
+    "severity": "Medium",
+    "description": "Fake profiles on matrimonial or dating apps build trust over weeks then ask for money for medical/visa emergencies.",
+    "redFlags": ["Refuses video call", "Foreign army officer", "Sudden emergency", "Customs/gift fee request"],
+    "example": "Darling, I sent you gold and iPhone from London. Customs needs ₹75,000 to release the parcel."
+  },
+  {
+    "id": 15,
+    "title": "Online Shopping / Fake Website",
+    "category": "Online Shopping Scam",
+    "severity": "Medium",
+    "description": "Heavy-discount fake e-commerce websites take payment and never deliver, or deliver counterfeit products.",
+    "redFlags": ["90% discount offers", "Only prepaid orders", "No GST invoice", "No verified reviews"],
+    "example": "iPhone 15 at ₹15,999! Limited stock. Order now on shopindia-deals.in — only prepaid via UPI."
+  }
+]
