@@ -83,6 +83,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:site_name", content: "ScamShield.in" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "ScamShield.in — Stay Safe From Online Scams" },
+      { name: "twitter:title", content: "ScamShield.in — Stay Safe From Online Scams" },
+      { property: "og:description", content: "Free cybersecurity awareness platform for Indian users. Analyze suspicious messages, browse scam database, and learn cyber safety tips." },
+      { name: "twitter:description", content: "Free cybersecurity awareness platform for Indian users. Analyze suspicious messages, browse scam database, and learn cyber safety tips." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/b9kG1uxHSATQrdC2SkmHox4YQdU2/social-images/social-1781005298012-file_000000004c0071f5969de225dc09619e.webp" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/b9kG1uxHSATQrdC2SkmHox4YQdU2/social-images/social-1781005298012-file_000000004c0071f5969de225dc09619e.webp" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
