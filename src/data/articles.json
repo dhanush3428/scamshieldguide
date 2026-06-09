@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1",
+    "title": "How to Identify a Phishing SMS in 10 Seconds",
+    "excerpt": "A practical breakdown of the red flags hidden in fake bank SMS — sender ID, urgency cues, and link patterns.",
+    "category": "Phishing",
+    "readTime": "4 min read",
+    "content": "Phishing SMS in India follow a near-identical script. The sender ID is usually a random alphanumeric like VK-AXBNQX instead of a verified header like AD-HDFCBK. The message creates urgency — 'account will be blocked in 1 hour', 'KYC expires today', 'card deactivated'. There is always a shortened link (bit.ly, tinyurl, or a fake lookalike domain like hdfc-secure.in). Real banks never send links to update KYC or unlock cards. If you ever receive such an SMS, do NOT click. Open your bank app directly, or visit the official website by typing the URL yourself. Forward suspicious messages to 1909 and report on cybercrime.gov.in."
+  },
+  {
+    "id": "a2",
+    "title": "Digital Arrest Scam: The New Pandemic of Cyber Fraud",
+    "excerpt": "Why 'CBI officers' on video calls are draining lakhs from middle-class Indians and how to protect your parents.",
+    "category": "Awareness",
+    "readTime": "6 min read",
+    "content": "Digital arrest is a psychological attack where scammers impersonate CBI, customs, or Mumbai Police via WhatsApp video call. They wear fake uniforms, sit in fake police-station backgrounds, and accuse victims of money laundering, drug trafficking, or human trafficking — usually tied to a 'parcel in your name'. Victims are told they are under 'digital arrest' and cannot disconnect the call or speak to family. Over hours, they are coerced into transferring money for 'verification', promised a full refund. Reality: there is no concept of digital arrest in Indian law. No police agency conducts investigation over video call or demands money. If you receive such a call, disconnect immediately and call 1930."
+  },
+  {
+    "id": "a3",
+    "title": "UPI Frauds: 7 Tricks Every Indian Must Know",
+    "excerpt": "From collect requests to QR code scams — the most common UPI traps and how to avoid them.",
+    "category": "UPI Safety",
+    "readTime": "5 min read",
+    "content": "UPI made payments effortless — and scams just as easy. The seven most common tricks: (1) Collect request fraud — scammer sends a payment request masked as 'sending money'. (2) Fake screenshot — shows you a forged payment screenshot before you ship the product. (3) QR code reversal — asks you to scan to receive payment. (4) Wrong number transfer — sends ₹1 'by mistake' and asks you to send back ₹10,000. (5) Refund scam — calls pretending to issue a refund, then takes you through a real debit. (6) Sim-swap — clones your SIM to intercept OTPs. (7) Fake UPI apps that look like BHIM/GPay. Golden rule: you NEVER enter UPI PIN to receive money."
+  },
+  {
+    "id": "a4",
+    "title": "Investment Scams on Telegram and WhatsApp",
+    "excerpt": "How 'guaranteed return' VIP groups are India's fastest-growing fraud — and how to spot them.",
+    "category": "Investment",
+    "readTime": "5 min read",
+    "content": "SEBI does not allow anyone to guarantee returns. If a Telegram/WhatsApp group promises 50–500% returns, it is a scam — full stop. The typical playbook: a 'finance expert' adds you to a free group, posts forged screenshots of profits, then funnels members into a VIP paid group. Inside VIP, members are told to install a custom 'trading app' or transfer money to an account for 'IPO allotment'. The app shows fake profits that you can never withdraw. Always verify advisors on the SEBI website, never join trading via unofficial apps, and remember — if it sounds too good to be true, it is."
+  },
+  {
+    "id": "a5",
+    "title": "Protecting Senior Citizens from Online Fraud",
+    "excerpt": "A simple guide for families — what to teach parents and grandparents about today's scams.",
+    "category": "Family",
+    "readTime": "4 min read",
+    "content": "Senior citizens are targeted because they trust authority and are often unfamiliar with new payment apps. Teach them: (1) Never share OTP, PIN, card number or CVV — not even with 'bank staff'. (2) Real police don't call or video call asking for money. (3) Pension and KYC updates happen at the branch, not on a phone call. (4) Don't install any app suggested by a stranger. (5) When in doubt, call you before doing anything. Set a household rule: a 10-minute wait before any online payment over ₹5,000. Most scams collapse the moment urgency is removed."
+  }
+]
